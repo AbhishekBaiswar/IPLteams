@@ -1161,7 +1161,7 @@ $(document).ready(function () {
         var playerCardWrapper = $("<div>").addClass("player-card-wrapper");
         var playerCard = $("<a>")
           .addClass("player-card")
-          .attr("href", "/Player Details/playerdetails.html?s=" + object[i].id);
+          .attr("href", "../Player Details/playerdetails.html?s=" + object[i].id);
         var player = $("<div>").addClass("player");
         var playerImg = $("<div>")
           .addClass("player-img-wrapper")
