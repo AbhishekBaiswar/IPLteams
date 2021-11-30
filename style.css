@@ -34,7 +34,7 @@ body {
 }
 #ipl-logo img {
   width: 60px;
-  height: 60px;
+  height: 45px;
 }
 #right-section {
   display: flex;
@@ -139,25 +139,25 @@ main {
   background-image: url(./Logos/CSK.png);
 }
 #MI {
-  background-position: -316px -316px;
+  background-image: url(./Logos/MI.png);
 }
 #RCB {
-  background-position: 0 0;
+  background-image: url(./Logos/RCB.png);
 }
 #DC {
-  background-position: -474px -316px;
+  background-image: url(./Logos/DC.png);
 }
 #PK {
-  background-position: -474px 0;
+  background-image: url(./Logos/PBKS.png);
 }
 #KKR {
-  background-position: -316px -158px;
+  background-image: url(./Logos/KKR.png);
 }
 #RR {
-  background-position: -158px -474px;
+  background-image: url(./Logos/RR.png);
 }
 #SRH {
-  background-position: -632px 0;
+  background-image: url(./Logos/SRH.png);
 }
 .card-details {
   margin-top: 150px;
