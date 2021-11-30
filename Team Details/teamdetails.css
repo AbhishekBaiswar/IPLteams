@@ -3,6 +3,7 @@
   padding: 2% 4%;
   position: relative;
   color: white;
+  background-size: cover;
 }
 .logo {
   background-repeat: no-repeat;
