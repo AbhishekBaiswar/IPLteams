@@ -126,18 +126,17 @@ main {
   position: relative;
 }
 .team-logo {
-  background-image: url(https://www.iplt20.com/resources/v4.24.0/i/sprites/tLogo158x-sprite.png);
   background-repeat: no-repeat;
-  background-position: -632px -158px;
   display: block;
   width: 158px;
   height: 158px;
   position: absolute;
   top: -4%;
   left: 20%;
+  background-size: contain;
 }
 #CSK {
-  background-position: -158px 0;
+  background-image: url(./Logos/CSK.png);
 }
 #MI {
   background-position: -316px -316px;
