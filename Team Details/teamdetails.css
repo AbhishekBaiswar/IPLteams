@@ -5,12 +5,12 @@
   color: white;
 }
 .logo {
-  background-image: url(https://www.iplt20.com/resources/v4.24.0/i/sprites/tLogo158x-sprite.png);
   background-repeat: no-repeat;
   display: block;
   width: 158px;
   height: 158px;
   margin-bottom: 25px;
+  background-size: contain;
 }
 .team-name {
   position: absolute;
