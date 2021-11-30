@@ -10,8 +10,7 @@ $(document).ready(function () {
       playerCount: 15,
       topBatsman: "Faf du Plessis",
       topbowler: "Ravindra Jadeja",
-      bgImage:
-        "linear-gradient(45deg, rgba(253, 185, 19, 0.6), rgba(253, 185, 19, 0.5)),url(https://www.iplt20.com/resources/v4.24.0/i/team-bgs/CSK-huddle.jpg)",
+      bgImage: "url(https://drive.google.com/uc?export=view&id=1Nmynl2BzdXobVBUJh3GsZbSIdEwPFJkY)",
     },
     {
       id: 2,
@@ -23,8 +22,7 @@ $(document).ready(function () {
       playerCount: 13,
       topBatsman: "Quinton de Kock",
       topbowler: "Jasprit Bumrah",
-      bgImage:
-        "linear-gradient(45deg, rgba(0,94,160,.5), rgba(0,94,160,.5)),url(https://www.iplt20.com/resources/v4.24.0/i/team-bgs/MI.jpg)",
+      bgImage: "url(https://drive.google.com/uc?export=view&id=1L53MKvid-gmOlwXo1TsZI04MIbklhJ1S)",
     },
     {
       id: 3,
@@ -36,8 +34,7 @@ $(document).ready(function () {
       playerCount: 14,
       topBatsman: "Virat Kohli",
       topbowler: "Yuzvendra Chahal",
-      bgImage:
-        "linear-gradient(45deg, rgba(0,0,0,.5), rgba(0,0,0,.5)),url(https://www.iplt20.com/resources/v4.24.0/i/team-bgs/RCB.jpg)",
+      bgImage: "url(https://drive.google.com/uc?export=view&id=1V9H598sjaKGWpABuGjgLkgI2-TmQLyiQ)",
     },
     {
       id: 4,
@@ -49,8 +46,7 @@ $(document).ready(function () {
       playerCount: 13,
       topBatsman: "Shikhar Dhawan",
       topbowler: "Kagiso Rabada",
-      bgImage:
-        "linear-gradient(45deg, rgba(0,76,147,.5), rgba(0,76,147,.5)),url(https://www.iplt20.com/resources/v4.24.0/i/team-bgs/DC-huddle.jpg)",
+      bgImage: "url(https://drive.google.com/uc?export=view&id=1WOHovx2tmFtPcJalOFART1P09rcpF81g)",
     },
     {
       id: 5,
@@ -62,8 +58,7 @@ $(document).ready(function () {
       playerCount: 13,
       topBatsman: "KL Rahul",
       topbowler: "Mohammed Shami",
-      bgImage:
-        "linear-gradient(45deg, rgba(179,37,36,.5), rgba(179,37,36,.5)),url(https://www.iplt20.com/resources/v4.24.0/i/team-bgs/PBKS-huddle.jpg)",
+      bgImage: "url(https://drive.google.com/uc?export=view&id=1E9vP3pE6vxO86m366EZlxES5cppatRRm)",
     },
     {
       id: 6,
@@ -75,8 +70,7 @@ $(document).ready(function () {
       playerCount: 14,
       topBatsman: "Shubman Gill",
       topbowler: "Pat Cummins",
-      bgImage:
-        "linear-gradient(45deg, rgba(61,34,86,.5), rgba(61,34,86,.5)),url(https://www.iplt20.com/resources/v4.24.0/i/team-bgs/KKR-huddle.jpg)",
+      bgImage: "url(https://drive.google.com/uc?export=view&id=1Lycw-r-iIgjwn0bU8rvOw4DdPsUGUaSd)",
     },
     {
       id: 7,
@@ -88,8 +82,7 @@ $(document).ready(function () {
       playerCount: 12,
       topBatsman: "Sanju Samson",
       topbowler: "Jofra Archer",
-      bgImage:
-        "linear-gradient(45deg, rgba(0,75,140,.5), rgba(0,75,140,.5)),url(https://www.iplt20.com/resources/v4.24.0/i/team-bgs/RR-huddle.jpg)",
+      bgImage: "url(https://drive.google.com/uc?export=view&id=1RZO0DtOkJctcg1KB594qusuf-SfgqEDI)",
     },
     {
       id: 8,
@@ -101,8 +94,7 @@ $(document).ready(function () {
       playerCount: 13,
       topBatsman: "David Warner",
       topbowler: "Bhuvneshwar Kumar",
-      bgImage:
-        "linear-gradient(45deg, rgba(251,101,63,.5), rgba(251,101,63,.5)),url(https://www.iplt20.com/resources/v4.24.0/i/team-bgs/SRH-huddle.jpg)",
+      bgImage: "url(https://drive.google.com/uc?export=view&id=1dHMqnB2oA78I8W5xDMYwryDotZ-jp4Yc)",
     },
   ];
   const playerData = [
