@@ -6,7 +6,7 @@ $(document).ready(function () {
       key: "CSK",
       homeStadium: "M. A. Chidambaram Stadium",
       championshipsWon: 3,
-      teamIcon: "https://www.iplt20.com/resources/v4.24.0/i/sprites/tLogo132x-sprite.png",
+      teamIcon: "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/CSK/logos/Medium/CSK.png",
       playerCount: 15,
       topBatsman: "Faf du Plessis",
       topbowler: "Ravindra Jadeja",
