@@ -126,6 +126,7 @@ main {
   position: relative;
 }
 .team-logo {
+  background-image: url(./Logos/NewTeam.png);
   background-repeat: no-repeat;
   display: block;
   width: 158px;
